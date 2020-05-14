@@ -1,2 +1,0 @@
-# GetTimeReactApp
-Created with CodeSandbox
